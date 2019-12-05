@@ -13,7 +13,7 @@ I love open source and i love to innovate.
 
 ### My History
 
-I graduated from North cap with CSE honours and I actually started being serious abuot technology 
+I graduated from North cap with CSE honours and I actually started being serious about technology 
 while i was working as a technology lead in USA, made a startup failed, started learning multiple web
 technologies. Again invested in a startup and it was a little bit of success but it was short lived.
 
@@ -22,4 +22,4 @@ Came back to India and started working for Service companies and started learnin
 Currently i keep on exploring ways to do algo trading in free time, i am mostly found debugging and fixing
 issues in my office.
 
-Talk to me about @ If you want to get in touch with me drop me an email ==> arora.abhishek@outlook.com
+Want to get in touch with me ? ==> arora.abhishek@outlook.com
