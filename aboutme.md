@@ -11,7 +11,7 @@ My name is Abhishek Arora and I work on:
 
 I love open source and i love to innovate.
 
-### my history
+### My History
 
 I graduated from North cap with CSE honours and I actually started being serious abuot technology 
 while i was working as a technology lead in USA, made a startup failed, started learning multiple web
