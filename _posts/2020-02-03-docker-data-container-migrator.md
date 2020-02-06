@@ -20,6 +20,7 @@ Wait a minute but what is this tool used for if they are portable ?
 ========================
 Well this helps you migrate the directories and not the complete containers, if you want to move /data from dev container to /data 
 on test container, we can use this tool.
+![tool](https://bhishekarora.github.io/img/datamigratortool.png)
 
 Upcoming features
 ===================
