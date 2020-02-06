@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tool to migrate Data only containers in your docker environment 
-image: /img/docker.png
 tags: [docker, tools,bash]
 ---
 
@@ -15,6 +14,7 @@ Data containers hold data only and they don't run, mongo kind of database runs i
 They are portable and you can export the complete data container in cloud/local environment by TARing it and SCPing it.
 
 ![container](https://bhishekarora.github.io/img/docker.png)
+
 
 Wait a minute but what is this tool used for if they are portable ?
 ========================
