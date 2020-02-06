@@ -24,4 +24,4 @@ I love to code and build stuff, I have experience in:
 I am mostly found debugging and fixing
 issues in my office.
 
-Reachalbe @ arora.abhishek@outlook.com
+Reachable @ arora.abhishek@outlook.com
