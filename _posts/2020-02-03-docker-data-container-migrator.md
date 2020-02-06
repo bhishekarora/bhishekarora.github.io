@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tool to migrate Data only containers in your docker environment 
-image: /img/docker.png
+bigimg: /img/docker.png
 tags: [docker, tools,bash]
 ---
 
