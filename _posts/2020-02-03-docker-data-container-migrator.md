@@ -26,9 +26,18 @@ Well this helps you migrate the directories and not the complete containers, if 
 on test container, we can use this tool.
 ![tool](https://bhishekarora.github.io/img/datamigratortool.png)
 
+Remote migration can be done via the remote scrip in the above repo, check readme on how to enable docker daemon to listen 
+remotely.
+
+![remote](https://bhishekarora.github.io/img/remotedaemon.png)
+
+
+To migrate complete containers just tar it
+
+$docker export datacontainername >datacontainerbackup.tar and import it in the target env.
+
+
 Upcoming features
 ===================
-Will be adding features to send the data to remote docker daemons on cloud via ssh , e.g move /data from dev@local to /data on 
-test@remote/cloud
 
 Will make it rsync between two data containers, autosync on a directory on both local and remote daemons.
