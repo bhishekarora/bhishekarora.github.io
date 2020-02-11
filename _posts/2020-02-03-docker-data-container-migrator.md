@@ -29,7 +29,7 @@ on test container, we can use this tool.
 Remote migration can be done via the remote scrip in the above repo, check readme on how to enable docker daemon to listen 
 remotely.
 
-![remote](https://bhishekarora.github.io/img/remotedaemon.png)
+![Remote](https://bhishekarora.github.io/img/remotedaemon.png)
 
 
 To migrate complete containers just tar it
