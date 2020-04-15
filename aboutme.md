@@ -17,9 +17,9 @@ I am a Computer Science Engineer and I am very serious about it.
 
 I love to code and build stuff, I have experience in:
 
-  -Robotics/Embedded/Raspberry Pi/Arduino/ESPs/Nodmcu
-  -Hacking and Advance Network Recon
-  -Brewing & BBQ
+  >Robotics/Embedded/Raspberry Pi/Arduino/ESPs/Nodmcu
+   Hacking and Advance Network Recon
+   Brewing & BBQ
 
 I am mostly found debugging and fixing
 issues in my office.
