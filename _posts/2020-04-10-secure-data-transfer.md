@@ -78,7 +78,7 @@ Will let you send data but also perform a bandwidth test between two systems to 
 
 Simple Mode
 ===========
-![Demo run without BW Test](https://bhishekarora.github.io/img/img/PayloadSender.png)
+![Demo run without BW Test](https://bhishekarora.github.io/img/PayloadSender.png)
 
 BW Test Mode
 ===========
