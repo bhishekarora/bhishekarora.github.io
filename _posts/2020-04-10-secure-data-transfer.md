@@ -21,7 +21,7 @@ Trasnport  entire discs/mount mounts/folders to remote systems securely (SSL/MD5
 
 ```
 ## Architecture
-![High level Architecture](https://github.com/bhishekarora/secure_data_transporter/blob/master/img/Architecture.jpg)
+![High level Architecture](https://bhishekarora.github.io/img/Architecture.jpg)
 
 
 ## 📜 How to get Started 
@@ -78,11 +78,11 @@ Will let you send data but also perform a bandwidth test between two systems to 
 
 Simple Mode
 ===========
-![Demo run without BW Test](https://github.com/bhishekarora/secure_data_transporter/blob/master/img/PayloadSender.png)
+![Demo run without BW Test](https://bhishekarora.github.io/img/img/PayloadSender.png)
 
 BW Test Mode
 ===========
-![Demo run with BW Test](https://github.com/bhishekarora/secure_data_transporter/blob/master/img/PayloadSender_BWmode.png)
+![Demo run with BW Test](https://bhishekarora.github.io/img/PayloadSender_BWmode.png)
 
 
 ## Demo Stats 
