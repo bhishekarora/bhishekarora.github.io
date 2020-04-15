@@ -19,7 +19,7 @@ I love to code and build stuff, I have experience in:
 
   >Robotics/Embedded/Raspberry Pi/Arduino/ESPs/Nodmcu
    Hacking and Advance Network Recon
-   Brewing & BBQ
+ 
 
 I am mostly found debugging and fixing
 issues in my office.
@@ -41,3 +41,5 @@ SQbmLO+eqousXBRVg/+ftU/PPSeeUZOtp2yXb5OSpyiyjPBUKxIRPR6juWBsaV8F
 SwIDAQAB
 -----END PUBLIC KEY-----
 
+
+> Things i do for fun => Run,Box,Read,Brew & BBQ
