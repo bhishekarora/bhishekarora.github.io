@@ -24,9 +24,9 @@ I love to code and build stuff, I have experience in:
 I am mostly found debugging and fixing
 issues in my office.
 
--Email me - arora.abhishek@outlook.com
+Email me - arora.abhishek@outlook.com
 
--Call me
+Call me
 ![Call me](https://bhishekarora.github.io/img/qr-code.png)
 
 Some thing secret, take my public key
