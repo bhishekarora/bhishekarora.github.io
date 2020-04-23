@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Network throttler- Mimic the RFP Bandwidths requirements
+title:  Network throttler
 tags: [ tools,bash]
 ---
 
