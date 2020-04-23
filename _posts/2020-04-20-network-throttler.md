@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Network throttler
+title:  Network Throttler
 tags: [ tools,bash]
 ---
 
