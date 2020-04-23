@@ -1,4 +1,9 @@
-# Network throttler
+---
+layout: post
+title:  Network throttler- Mimic the RFP Bandwidths requirements
+tags: [ tools,bash]
+---
+
 
 Control the bandwidth on your Server/Testing machine using this throttler, built with the linux traffic controller
 
