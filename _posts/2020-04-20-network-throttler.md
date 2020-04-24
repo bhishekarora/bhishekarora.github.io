@@ -7,7 +7,7 @@ tags: [ tools,bash]
 
 Control the bandwidth on your Server/Testing machine using this throttler, built with the linux traffic controller
 
-![Architecture](https://github.com/bhishekarora/bhishekarora.github.io/img/networkthrottler.png)
+![Architecture](https://bhishekarora.github.io/img/networkthrottler.png)
 
   
 
@@ -97,7 +97,7 @@ gateway IP of the above linux box
 
 /activate.sh -i=eth0 -b=200kbit --bwtest  
 
-![BW Throttle with bwtest](https://github.com/bhishekarora/bhishekarora.github.io/blob/master/img/throttlewithbwtest.png)
+![BW Throttle with bwtest](https://bhishekarora.github.io/img/throttlewithbwtest.png)
 
 > UseCase
 > 
@@ -110,7 +110,7 @@ gateway IP of the above linux box
 
 /activate.sh -i=eth0 -d=200ms 
 
-![Packet delay mode ](https://github.com/bhishekarora/bhishekarora.github.io/blob/master/img/packetdelay.png)
+![Packet delay mode ](https://bhishekarora.github.io/img/packetdelay.png)
 
 > UseCase Client has an SLA that the packet delay from your server to
 > the end users on remote sites should not be this much milliseconds
