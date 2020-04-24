@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Who am I ?
+title: About me
+
 ---
 
 I work on:
