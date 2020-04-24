@@ -13,7 +13,7 @@ I love open source and love to kill time reading books on Computer Architecture 
 
 ### My History
 
-I am a Computer Science Engineer and I am very serious about it.
+I am a Computer Science Engineer and I am very **serious** about it.
 
 I love to code and build stuff, I also work on:
 
