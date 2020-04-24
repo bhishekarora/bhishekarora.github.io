@@ -9,13 +9,13 @@ I work on:
 - Java/JS/Python technologies
 - Dockers,Kubernetes,IOT,AI
 
-I love open source and love to kill time reading books around Computer Architecture and Security.
+I love open source and love to kill time reading books on Computer Architecture and Security.
 
 ### My History
 
 I am a Computer Science Engineer and I am very serious about it.
 
-I love to code and build stuff, I have experience in:
+I love to code and build stuff, I also work on:
 
   >Robotics/Embedded/Raspberry Pi/Arduino/ESPs/Nodmcu
    Hacking and Advance Network Recon
@@ -24,7 +24,7 @@ I love to code and build stuff, I have experience in:
 I am mostly found debugging and fixing
 issues in my office.
 
-Email me - arora.abhishek@outlook.com
+ [Email me=>  arora.abhishek@outlook.com] (mailto:arora.abhishek@outlook.com)
 
 Call me
 ![Call me](https://bhishekarora.github.io/img/qr-code.png)
