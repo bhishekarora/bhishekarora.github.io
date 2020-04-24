@@ -7,7 +7,7 @@ tags: [ tools,bash]
 
 Control the bandwidth on your Server/Testing machine using this throttler, built with the linux traffic controller
 
-![Architecture](https://github.com/bhishekarora/bhishekarora.github.io/blob/master/img/networkthrottler.png)
+![Architecture](https://github.com/bhishekarora/bhishekarora.github.io/img/networkthrottler.png)
 
   
 
