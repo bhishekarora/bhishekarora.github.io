@@ -24,7 +24,7 @@ I love to code and build stuff, I also work on:
 I am mostly found debugging and fixing
 issues in my office.
 
- [Email me=>  arora.abhishek@outlook.com] (mailto:arora.abhishek@outlook.com)
+>Email [arora.abhishek@outlook.com](mailto:arora.abhishek@outlook.com)
 
 Call me
 ![Call me](https://bhishekarora.github.io/img/qr-code.png)
