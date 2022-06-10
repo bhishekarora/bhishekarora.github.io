@@ -16,6 +16,7 @@ Face is your boarding pass, generate unique digital token specific to the travel
 ## High Level Design
 
 Passenger can enroll for this either via Mobile or the kiosk on the Airport.
+
 Scan Passport/Face/Boarding pass 
 
 
