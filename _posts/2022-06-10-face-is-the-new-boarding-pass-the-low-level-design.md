@@ -17,7 +17,14 @@ Face is your boarding pass, generate unique digital token specific to the travel
 
 Passenger can enroll for this either via Mobile or the kiosk on the Airport.
 
-Scan Passport/Face/Boarding pass 
+Scan Passport/Face/Boarding pass --> Generate a unique token for journey and check that token at different stages of travel.
 
 
 ![]({{site.baseurl}}/img/high.png)
+
+
+## Low level Design
+
+Passenger shows the Passport at the kiosk scanner (Scan MRZ- Machine Readable Zone - [Free Library](https://github.com/patrick-randria/passport-reader) ) 
+
+Passenger shows the face and a face mask array is created for that face, use the [free face recognition library](https://github.com/ageitgey/face_recognition) built on open CV ( Accuracy is high)
