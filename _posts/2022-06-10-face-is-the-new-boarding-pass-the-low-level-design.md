@@ -27,4 +27,4 @@ Scan Passport/Face/Boarding pass --> Generate a unique token for journey and che
 
 Passenger shows the Passport at the kiosk scanner (Scan MRZ- Machine Readable Zone - [Free Library](https://github.com/patrick-randria/passport-reader) ) 
 
-Passenger shows the face and a face mask array is created for that face, use the [free face recognition library](https://github.com/ageitgey/face_recognition) built on open CV ( Accuracy is high) .
+Passenger shows the face and a face mask array is created for that face, use the [free face recognition library](https://github.com/ageitgey/face_recognition) built on open CV ( Accuracy is high) ..
