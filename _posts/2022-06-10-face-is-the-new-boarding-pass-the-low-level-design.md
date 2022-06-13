@@ -35,6 +35,9 @@ Now we have the data available for Passport and face mask, its time to get the b
 
 Use this free [library](https://github.com/zxing/zxing) to get the details out of QR code (pdf 417 format for boarding pass- 2d bar code)
 
+Its time to create the single token, the digital identity of traveller.
+
+Just take the information from Passport+Face encoding+ Boarding pass +Salt( may be time stamp(optional)) ==> ****TOKEN****
 
 
 
