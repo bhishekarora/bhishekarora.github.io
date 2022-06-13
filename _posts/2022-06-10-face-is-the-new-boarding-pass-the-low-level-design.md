@@ -30,6 +30,7 @@ Passenger shows the Passport at the kiosk scanner (Scan MRZ- Machine Readable Zo
 Passenger shows the face and a face mask array is created for that face, use the [free face recognition library](https://github.com/ageitgey/face_recognition) built on open CV ( Accuracy is high) ..
 
 The face mask vector array is used for face encodings, just save the enodings via pickle and save it on disk and load when required for comparisons. (Check out the [post](https://stackoverflow.com/questions/59004129/storing-a-list-of-face-encodings-in-python-for-face-identification))
+![]({{site.baseurl}}/img/12.gif)
 
 Now we have the data available for Passport and face mask, its time to get the boarding pass QR code.
 
