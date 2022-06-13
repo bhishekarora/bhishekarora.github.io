@@ -48,7 +48,7 @@ Just take the information from Passport+Face encoding+ Boarding pass +Salt( may 
 
 
 
-Now out token is available, time to save it on our single token platform so that other systems can use it. 
+Our token is available, time to save it on our single token platform so that other systems can use it. 
 
 Lets use MongoDb/Python stack for our single token platform and create an API end point called ./CheckFace
 
