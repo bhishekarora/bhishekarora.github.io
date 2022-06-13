@@ -65,7 +65,7 @@ The token can be alive till the departure and later we can destroy the token fro
 
 ##End
 
-The face masks stored can also be very usefull for future machine learning to improve operational efficiencies on the airport, e.g passenger flow modelling. 
+The face masks stored can also be very usefull for future machine learning to improve operational efficiencies on the airport, e.g passenger Identification and Re-Identification use cases. 
 
 
 If you need any assistance implementing this reach out to me on 
