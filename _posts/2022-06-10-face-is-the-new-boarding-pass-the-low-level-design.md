@@ -63,13 +63,12 @@ Rest of the systems on the airport can use their own open cv implementation (jav
 
 The token can be alive till the departure and later we can destroy the token from identity platform and let it remain in our db for reporting and other use cases. Facial data can remain in system for future as we need not enroll the passengers again if they travel in future, we can use the old facials and generate a new token for travel for that passenger. 
 
-##End
+### End
 
 The face masks stored can also be very usefull for future machine learning to improve operational efficiencies on the airport, e.g passenger Identification and Re-Identification use cases. 
 
 
-If you need any assistance implementing this reach out to me on 
-
+> If you need any assistance implementing this reach out to me on
 ![qr.PNG]({{site.baseurl}}/img/qr.PNG)
 
 
