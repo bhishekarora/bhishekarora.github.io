@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Information Display System for FREE
 ---
 ## Information Display system for Rail/Flights/Ships and what not 
@@ -41,9 +41,3 @@ but this json data can be injected by any of the external services as per your u
 All the screens can be controlled by backend Admin server and use JWT for authentication and use local screen browser storage to store tokens and authentications. 
 
 Advertisements can be mapped to specific screens and content can selectively be mapped to specific screens.
-
-
-
-
-
-
