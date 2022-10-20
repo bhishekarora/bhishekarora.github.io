@@ -46,12 +46,13 @@ Advertisements can be mapped to specific screens and content can selectively be 
 
 ### Advantages of this solution 
 
-Its free :)
-Its Scalable, at presentation and backend layer, single VM hosting backend can serve 20 screens.
-Its built of on open source tech, Angular/Node/Mysql 
-It can support advertisements so you can earn from advertisers
-It has universal API support, so bring data from any of the systems and plugin 
-Its cloud ready, just spin a VM on cloud and configure your screens to point to the Flight info server.
+- Its free :)
+- Its Scalable, at presentation and backend layer, single VM hosting backend can serve 20 screens.
+- Its built of on open source tech, Angular/Node/Mysql 
+- It can support advertisements so you can earn from advertisers
+- It has universal API support, so bring data from any of the systems and plugin 
+- Its cloud ready, just spin a VM on cloud and configure your screens to point to the Flight info server.
+
 
 
 
