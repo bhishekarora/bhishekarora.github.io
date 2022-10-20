@@ -42,3 +42,30 @@ but this json data can be injected by any of the external services as per your u
 All the screens can be controlled by backend Admin server and use JWT for authentication and use local screen browser storage to store tokens and authentications. 
 
 Advertisements can be mapped to specific screens and content can selectively be mapped to specific screens.
+
+
+### Advantages of this solution 
+
+Its free :)
+Its Scalable, at presentation and backend layer, single VM hosting backend can serve 20 screens.
+Its built of on open source tech, Angular/Node/Mysql 
+It can support advertisements so you can earn from advertisers
+It has universal API support, so bring data from any of the systems and plugin 
+Its cloud ready, just spin a VM on cloud and configure your screens to point to the Flight info server.
+
+
+
+This solution is easily customizable to work with any of the industry, rail , maritime etc.
+
+This is hand made by me, would appreciate if you let the credit not in README intact.
+
+If anyone needs help in modifying or enabling some integration from other systems ping me on 
+
+arora.abhishek@outlook.com 
+
+
+
+
+
+
+
