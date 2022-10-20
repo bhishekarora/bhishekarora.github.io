@@ -30,6 +30,9 @@ High level features of this solution
 
 The code in git repo contains two servers, one serves the static angular app for screens and second server is the backend nodejs server which hosts the apis and hosts the socket server as well. 
 
+https://github.com/bhishekarora/FIDS
+
+
 
 ![fids_arch.PNG]({{site.baseurl}}/img/fids_arch.PNG)
 
@@ -60,7 +63,7 @@ This solution is easily customizable to work with any of the industry, rail , ma
 
 This is hand made by me, would appreciate if you let the credit not in README intact.
 
-If anyone needs help in modifying or enabling some integration from other systems ping me on 
+If anyone needs help in modifying or enabling some integration from other systems  ping me on 
 
 arora.abhishek@outlook.com 
 
