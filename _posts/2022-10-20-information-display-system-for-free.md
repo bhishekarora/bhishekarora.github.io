@@ -33,6 +33,7 @@ The code in git repo contains two servers, one serves the static angular app for
 
 ![fids_arch.PNG]({{site.baseurl}}/img/fids_arch.PNG)
 
+
 The flights arrivals and departures API are currently served via the data folder **node-js-server\app\data**
 but this json data can be injected by any of the external services as per your use case, just call the API and use the flights array to push data back to the client.
 
