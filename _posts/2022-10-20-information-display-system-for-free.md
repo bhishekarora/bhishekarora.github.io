@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Information Display System for FREE
+title: 'Information Display System '
 ---
 ## Information Display system for Rail/Flights/Ships and what not 
 
@@ -65,13 +65,4 @@ This is hand made by me, would appreciate if you let the credit not in README in
 
 If anyone needs help in modifying or enabling some integration from other systems  ping me on 
 
-arora.abhishek@outlook.com 
-
-
-
-
-
-
-
-
-
+arora.abhishek@outlook.com
