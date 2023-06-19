@@ -49,7 +49,7 @@ Advertisements can be mapped to specific screens and content can selectively be 
 
 ### Advantages of this solution 
 
-- Its free :)
+- Its built on Open Source stack :)
 - Its Scalable, at presentation and backend layer, single VM hosting backend can serve 20 screens.
 - Its built of on open source tech, Angular/Node/Mysql 
 - It can support advertisements so you can earn from advertisers
