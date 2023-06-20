@@ -30,7 +30,7 @@ High level features of this solution
 
 The code in git repo contains two servers, one serves the static angular app for screens and second server is the backend nodejs server which hosts the apis and hosts the socket server as well. 
 
-https://github.com/bhishekarora/FIDS
+[https://github.com/bhishekarora/FIDS](https://github.com/bhishekarora/FIDS)
 
 
 
