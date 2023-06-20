@@ -62,7 +62,7 @@ Advertisements can be mapped to specific screens and content can selectively be 
 
 This solution is easily customizable to work with any of the industry, rail , maritime etc.
 
-This is hand made by me, would appreciate if you let the credit not in README intact.
+I built it from scratch, would appreciate if you let the credit not in README intact.
 
 If anyone needs help in modifying or enabling some integration from other systems  ping me on 
 
