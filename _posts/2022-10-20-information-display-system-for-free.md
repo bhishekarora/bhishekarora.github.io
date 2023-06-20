@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: 'Information Display System '
+date: '2023-06-02'
 ---
 ## Information Display system for Rail/Flights/Ships and what not 
 
