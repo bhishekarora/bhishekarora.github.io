@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Vision Based Real Time Parking System for Airport
+title: Vision based Real Time Parking System for Airport
 ---
 ---
 layout: post
