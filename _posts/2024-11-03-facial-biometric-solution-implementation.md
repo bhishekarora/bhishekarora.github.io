@@ -1,6 +1,6 @@
 **AeroPass** is a facial biometric authentication solution designed to streamline the boarding process for passengers at airports. With AeroPass, users can enroll in the comfort of their homes, authenticate their identities securely, and ensure a smooth experience at the boarding gate.
 
-![](https://github.com/bhishekarora/bhishekarora.github.io/blob/f917d50d8dcfdfd53c3eedee04bd7be113849730/img/aeropasslogo.png)
+![](https://github.com/bhishekarora/bhishekarora.github.io/img/aeropasslogo.png)
 
 ## Key Features
 
