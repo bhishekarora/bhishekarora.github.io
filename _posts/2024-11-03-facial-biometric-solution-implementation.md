@@ -94,7 +94,8 @@ date: '2024-11-04'
 ## Egate Hardware
 - **MVP Version - DIY <12 Volts**: Facepod/SOC/LEDs/LCD/USBcam/Sensors/Servos  
 - **Lite Version - DIY 24 V** : Facepod (metal/wood)/BLDC/Switches/Relays/Leds/LCD/USBcam 
-*peripherals  controlled via Aero pass gate controller and integrated with Aero pass Server
+
+> Peripherals  controlled via Aero pass gate controller and integrated with Aero pass Server
 
 AeroPass enables travelers to experience a fast, secure, and seamless airport boarding process by using cutting-edge biometric technology. By leveraging at-home enrollment, secure identity verification, and airport-integrated boarding systems, AeroPass enhances both convenience and security.
 
