@@ -61,9 +61,9 @@ date: '2024-11-04'
 
 1.  **Frontend (Mobile App)**:
     
-    *   Built in **React Native**.
+    *   Hybrid **Android/ios**.
         
-    *   Integrates with identity verification APIs (e.g., Aadhaar).
+    *   Integrates with identity verification APIs (e.g., Aadhaar ).
         
     *   Captures frames for liveness detection and facial vectors(4096) analysis of live frames to detect liveness via the Aeropass Liveness Server
         
