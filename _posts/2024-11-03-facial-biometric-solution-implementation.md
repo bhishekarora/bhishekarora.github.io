@@ -40,19 +40,19 @@ date: '2024-11-04'
     
 2.  **Liveness Detection**: Using multi-frame analysis and facial vector algorithms, AeroPass checks for signs of a live human (like eye blinks) to ensure security.
     
-3.  **Selfie Storage**: Once liveness is confirmed, the app securely saves the selfie for future use.
+3.  **Selfie Storage**: Once liveness is confirmed, selfie is matched with aadhar image using facenet 512 (Declared score 99 % on model), the app securely saves the selfie with token for future use.
     
 
 ### Step 3: Boarding Pass Upload
 
 1.  **Boarding Pass Submission**: Before reaching the airport, the user uploads their boarding pass to the app.
     
-2.  **Data Transmission to Backend**: The AeroPass app sends the userâs verified selfie, facial data, and PNR details to the backend AeroPass server for verification.
+2.  **Data Transmission to Backend**: The AeroPass app sends the userâs verified selfie, facial data, and PNR details to the backend AeroPass server for verification to DCS and store in Aero pass platform Server.
     
 
 ### Step 4: Airport Boarding Process
 
-1.  **Token-Based Authentication at Boarding Gates**: At the airport, the AeroPass system integrated with boarding gates validates the token, allowing the user to pass through.
+1.  **Token-Based Authentication at Boarding Gates**: At the airport, the AeroPass system integrated with boarding gates validates the token, allowing the user to pass through after facials are matched via the Aeropass Facial Match Server
     
 2.  **Seamless Experience**: Users can now proceed through the boarding gate using facial recognition, making the entire process faster and more convenient.
     
@@ -65,13 +65,15 @@ date: '2024-11-04'
         
     *   Integrates with identity verification APIs (e.g., Aadhaar).
         
-    *   Captures frames for liveness detection and facial vector analysis of live frames to detect liveness.
+    *   Captures frames for liveness detection and facial vectors(4096) analysis of live frames to detect liveness via the Aeropass Liveness Server
         
 2.  **Backend (AeroPass Server)**:
     
-    *   Receives data from the app, including facial recognition data and PNR details.
+    *   Receives data from the app, including facial recognition data and PNR details from BP scan.
         
     *   Validates user identity at the boarding gates in coordination with the airport DCS systems.
+      
+    *   Exposes APIs for Aero pass gate controller to fetch facial data from PNR queries via BP QR scan.
         
 3.  **Identity Verification**:
     
@@ -83,7 +85,7 @@ date: '2024-11-04'
     
     *   Implements multi-frame detection to verify the user's live presence.
         
-    *   Applies facial vector algorithms to authenticate the user in real-time.
+    *   Applies facial vector algorithms (EAR ratios on multiple frames) to authenticate the user in real-time.
         
 
 ## Future Enhancements
@@ -94,12 +96,13 @@ date: '2024-11-04'
     
 *   **Integration with Airline Systems**: More connectors to work with SITA/Amadeus systems
     
-## Egate Hardware
-- **MVP Version - DIY <12 Volts**: Facepod/SOC/LEDs/LCD/USBcam/Sensors/Servos  
-- **Lite Version - DIY 24 V** : Facepod (metal/wood)/BLDC/Switches/Relays/Leds/LCD/USBcam 
+## Egate Hardware (Controlled via Egate Controller Module)
+
+- **MVP Version (Ready) - DIY <12 Volts**: Facepod(fabric)/SOC/LEDs/LCD/USBcam/Sensors/Servos  
+- **Lite Version (Can be built) - DIY 24 Volts** : Facepod (metal/wood housing)/BLDC/Switches/Relays/Leds/LCD/USBcam 
 
 > Peripherals  controlled via Aero pass gate controller and integrated with Aero pass Server
 
 AeroPass enables travelers to experience a fast, secure, and seamless airport boarding process by using cutting-edge biometric technology. By leveraging at-home enrollment, secure identity verification, and airport-integrated boarding systems, AeroPass enhances both convenience and security.
 
-_For more details and the complete codebase, visit_ [GitHub Repository](#)_._
+_For more details and the complete codebase, visit_ [GitHub Repository](https://github.com/bhishekarora/aeropass)_._
