@@ -98,8 +98,10 @@ date: '2024-11-04'
     
 ## Egate Hardware (Controlled via Egate Controller Module)
 
-- **MVP Version (Ready) - DIY <12 Volts**: Facepod(fabric)/SOC/LEDs/LCD/USBcam/Sensors/Servos  
-- **Lite Version (Can be built) - DIY 24 Volts** : Facepod (metal/wood housing)/BLDC/Switches/Relays/Leds/LCD/USBcam 
+- **MVP Version (Ready) - DIY <12 Volts**: Gate(fabric)/SOC/LEDs/LCD/USBcam/Sensors/Servos 
+- **Lite Version (In Prg.) - DIY 220 Volts Version** : Gate (metal/wood housing)/BLDC24v/Switches/Relays/Leds/LCD/USBcam/ProximitySensor
+- **Commercial Version DIY (Can be built) 220V** : Gate(Steel body housing from Indiamart) , others peripherals and motors will be assembled and soldered on SOC as for above versions , minor welding might be required for this.
+- **Commerical Version off the shelf** : Gunnebbo/Kaba/Indiamart gates can be integrated with solution with gates starting at 40k INR/$500 at Indiamart.
 
 > Peripherals  controlled via Aero pass gate controller and integrated with Aero pass Server
 
