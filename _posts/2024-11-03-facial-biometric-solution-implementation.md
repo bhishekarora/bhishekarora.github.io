@@ -7,6 +7,9 @@ date: '2024-11-04'
 
 ![https://raw.githubusercontent.com/bhishekarora/bhishekarora.github.io/master/img/aeropasslogo.png](https://raw.githubusercontent.com/bhishekarora/bhishekarora.github.io/master/img/aeropasslogo.png)
 
+## Modules supporting this implementation 
+![https://raw.githubusercontent.com/bhishekarora/bhishekarora.github.io/master/img/modules.png](https://raw.githubusercontent.com/bhishekarora/bhishekarora.github.io/master/img/modules.png)
+
 ## Key Features
 
 *   **Remote Enrollment**: Users can enroll from their mobile devices, allowing them to verify their identity and authenticate before arriving at the airport.
