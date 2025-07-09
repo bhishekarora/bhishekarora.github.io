@@ -56,7 +56,7 @@ title: Aero Suite Product Catalog
 # Aero Suite Product Catalog
 
 <div class="product">
-  <img src="https://private-user-images.githubusercontent.com/11346102/247076396-f52c1009-23fc-47ad-8177-f3952c8f12d5.png" alt="Aero FIDS Logo">
+  <img src="https://bhishekarora.github.io/img/fids.PNG" alt="Aero FIDS Logo">
   <h2>Aero FIDS</h2>
   <p>A modern and modular Flight Information Display System for airports. Aero FIDS supports real-time integration with airport operations, offering multi-screen support, delayed flight alerts, and multilingual configurations.</p>
   <div class="links">
