@@ -86,3 +86,28 @@ title: Aero Suite Product Catalog
   </div>
   <div class="clear"></div>
 </div>
+
+<div class="product">
+  <img src="https://github.com/bhishekarora/parkingsystem/raw/main/main.png" alt="Aeropark Logo">
+  <h2>AeroPark</h2>
+  <p>Vision Based Parking System at Airport Hangar and Toll Collector via Tail Number Extractor integrated with AMS Interface</p>
+  <div class="links">
+    <a href="https://github.com/bhishekarora/AeroPark">🔗 GitHub Repository</a>
+     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7213108701576978432/">🌐 Product Page</a>
+  </div>
+  <div class="clear"></div>
+</div>
+
+
+
+<div class="product">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQEXQZ9s5DFGUQ/article-cover_image-shrink_720_1280/B56Zc_O5ivG0AI-/0/1749112561401?e=1757548800&v=beta&t=ga9bTOfHN-XPNEKAIxaQZEdpfBLQkLxMeCZHSfYrC8I" alt="HumanTwin Logo">
+  <h2>HumanTwin</h2>
+  <p>AI-Powered Avatar for MS Teams: My Human Twin in Action</p>
+  <div class="links">
+    <a href="https://github.com/bhishekarora/human_twin_msteams">🔗 GitHub Repository</a>
+     <a href="[https://www.linkedin.com/feed/update/urn:li:activity:7213108701576978432/](https://www.linkedin.com/feed/update/urn:li:activity:7336604077486743553/)">🌐 Product Page</a>
+    
+  </div>
+  <div class="clear"></div>
+</div>
