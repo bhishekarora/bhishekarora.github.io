@@ -110,9 +110,10 @@ title: Aero Suite Product Catalog
     
   </div>
   <div class="clear"></div>
-
+<div class="product">
   <div class ="links">
     All the MVPs are built from scratch in my ME time and I own the IP for all and avaialble for free to use by Startups.
     Mail me on arora.abhishek@outlook.com for collabs.
   </div>
+</div>
 </div>
