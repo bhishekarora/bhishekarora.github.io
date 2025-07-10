@@ -3,13 +3,16 @@ layout: page
 title: About me
 
 ---
+Relentless Builder , Grey Hat , Hustling last 19 Years.
+Startup failures, Lab Maker, Garrage Architect for IBM labs.
+Worked on Defence and Civial Aviation Projects.
 
 I work on:
 
 - Java/JS/Python technologies
-- Dockers,Kubernetes,IOT,AI
+- Dockers,Kubernetes,IOT,AI,Hardware Mods
 
-I love open source and love to kill time reading books on Computer Architecture and Security.
+I love open source and love to kill time reading books on Distributed Systems, Computer Architecture and Security.
 
 ### My History
 
@@ -18,7 +21,7 @@ I am a Computer Science Engineer and I am very **serious** about it.
 I love to code and build stuff, I also work on:
 
   >Robotics/Embedded/Raspberry Pi/Arduino/ESPs/Nodmcu
-   Hacking and Advance Network Recon
+   Hacking and Advance Network Recon, have built Kali Linux Packages for APTs
  
 
 I am mostly found debugging and fixing
@@ -43,4 +46,4 @@ SwIDAQAB
 -----END PUBLIC KEY-----
 ```
 
-> Things i do for fun => Run,Read*2,Brew & BBQ
+> Things i do for fun => Run,Read*2,Hackware Hacks
