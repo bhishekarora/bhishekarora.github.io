@@ -106,7 +106,7 @@ title: Aero Suite Product Catalog
   <p>AI-Powered Avatar for MS Teams: My Human Twin in Action</p>
   <div class="links">
     <a href="https://github.com/bhishekarora/human_twin_msteams">🔗 GitHub Repository</a>
-     <a href="[https://www.linkedin.com/feed/update/urn:li:activity:7213108701576978432/](https://www.linkedin.com/feed/update/urn:li:activity:7336604077486743553/)">🌐 Product Page</a>
+     <a href="https://github.com/bhishekarora/human_twin_msteams/raw/main/technical.png">🌐 Product Page</a>
     
   </div>
   <div class="clear"></div>
