@@ -46,4 +46,4 @@ SwIDAQAB
 -----END PUBLIC KEY-----
 ```
 
-> Things i do for fun => Run,Read*2,Hackware Hacks
+> Things i do for fun => Run,Read*2,Hardware Hacks
