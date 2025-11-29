@@ -82,7 +82,7 @@ title: Aero Suite Product Catalog
   <h2>AeroTwin</h2>
   <p>A high-fidelity Digital Twin platform that unifies all airside and landside operations under a single virtual simulation. Includes aircraft movement, gate allocation, NOTAM integration, ATIS/ACARS support, and real-time telemetry for control rooms.</p>
   <div class="links">
-    <a href="https://github.com/bhishekarora/Aerotwin">🔗 GitHub Repository</a>
+    <!-- a href="https://github.com/bhishekarora/Aerotwin">🔗 GitHub Repository</a -->
   </div>
   <div class="clear"></div>
 </div>
@@ -115,8 +115,7 @@ title: Aero Suite Product Catalog
 
 <div class="product">
   <div class ="links">
-    All the MVPs are built from scratch in my ME time and I own the IP for all and avaialble for free to use by Startups.
-    Mail me on arora.abhishek@outlook.com for collabs.
+    All the MVPs are built from scratch and built while learning the concepts 
   </div>
 </div>
 
