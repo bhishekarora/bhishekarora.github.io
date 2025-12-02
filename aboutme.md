@@ -3,7 +3,7 @@ layout: page
 title: About me
 
 ---
-Relentless Builder , Grey Hat , Hustling last 19 Years.
+Relentless Builder , Security Researcher, Hustling last 19 Years.
 Startup failures, Lab Maker, Garrage Architect for IBM labs.
 Worked on Defence and Civial Aviation Projects.
 
@@ -21,7 +21,7 @@ I am a Computer Science Engineer and I am very **serious** about it.
 I love to code and build stuff, I also work on:
 
   >Robotics/Embedded/Raspberry Pi/Arduino/ESPs/Nodmcu
-   Hacking and Advance Network Recon, have built Kali Linux Packages for APTs
+   Hacking and Advance Network Recon, have built Linux Packages around it.
  
 
 I am mostly found debugging and fixing
